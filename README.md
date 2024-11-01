@@ -1,7 +1,6 @@
 1.Giới thiệu về hệ điều hành Linux
 *Tại sao chọn Linux trong phát triển và học tập công nghệ thông tin.
 2.Lịch sử phát triển Linux và Unix
-
 *Unix: Phát triển bởi Dennis Ritchie và Ken Thompson (1969, Bell Labs).
 *Linux: Linus Torvalds phát triển vào 1992, là nền tảng của nhiều hệ điều hành hiện nay.
 3.Các bản phân phối Linux
@@ -28,4 +27,3 @@
 9.Chmod bằng số
 * Quyền đọc = 4, ghi = 2, thực thi = 1.
 * Ví dụ thiết lập quyền: chmod 555 file, chmod 775 file.
-* 
